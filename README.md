@@ -28,7 +28,7 @@
 - 💻 Full-stack developer with a focus on **Java** and **Spring Boot**.
 - 🌱 Currently exploring **microservices** and **cloud computing**.
 - 🏆 Participated in various hackathons, building innovative and creative projects.
-- ⚡ Fun fact: I love combining code with creative designs and anime culture!
+- ⚡ Fun fact: I love combining code with creative designs and my hobbies!
 
 ### 🛠️ Technologies I Work With:
 - **Languages**: Java, JavaScript, HTML, CSS
