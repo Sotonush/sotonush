@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Sotonush 👋</h1>
+<h1 align="center">Hey there! I'm Sotonu 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Anime Gif">
@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/sotonush?igsh=MTdmczhpYWtxcDF0NA%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me!-purple?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-%20purple?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
   <a href="https://t.me/sotonu">
-    <img src="https://img.shields.io/badge/Telegram-Chat%20With%20Me!-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-%20blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   <a href="mailto:suleimanovamirbk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch!-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-%20red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 - 💻 Full-stack developer with a focus on **Java** and **Spring Boot**.
 - 🌱 Currently exploring **microservices** and **cloud computing**.
 - 🏆 Participated in various hackathons, building innovative and creative projects.
-- ⚡ Fun fact: I love combining code with creative designs and anime culture!
+- ⚡ Fun fact: I have a lot of hobbies, which helps me look at situations from different angles
 
 ### 🛠️ Technologies I Work With:
 - **Languages**: Java, JavaScript, HTML, CSS
