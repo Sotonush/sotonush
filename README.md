@@ -36,6 +36,10 @@
 - **Databases**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
 
+### 📊 My GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact)
+
 ---
 
 <p align="center">
