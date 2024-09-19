@@ -40,9 +40,7 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sotonush&show_icons=true&count_private=true&hide_title=true&hide=prs&include_all_commits=true&theme=radical" alt="GitHub Stats"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=radical" alt="Top Languages"/>
