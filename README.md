@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Sotonu 👋</h1>
+<h1 align="center">Hey there! I'm Sotonush 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Anime Gif">
@@ -28,7 +28,7 @@
 - 💻 Full-stack developer with a focus on **Java** and **Spring Boot**.
 - 🌱 Currently exploring **microservices** and **cloud computing**.
 - 🏆 Participated in various hackathons, building innovative and creative projects.
-- ⚡ Fun fact: I have a lot of hobbies, which helps me look at situations from different angles
+- ⚡ Fun fact: I love combining code with creative designs and anime culture!
 
 ### 🛠️ Technologies I Work With:
 - **Languages**: Java, JavaScript, HTML, CSS
@@ -36,11 +36,17 @@
 - **Databases**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
 
+---
+
 ### 📊 My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sotonush&show_icons=true&count_private=true&hide_title=true&hide=prs&include_all_commits=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Sotonush?tab=repositories">
