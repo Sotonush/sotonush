@@ -40,17 +40,12 @@
 
 ### 📊 My GitHub Stats
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+### 📊 My GitHub Metrics
 
 <p align="center">
-  <a href="https://github.com/Sotonush?tab=repositories">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20repos!-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-  </a>
+  <img src="https://metrics.lecoq.io/Sotonush?template=classic&config.timezone=America%2FNew_York" alt="GitHub Metrics"/>
 </p>
+
 
 <p align="center">
   <b>Let's connect and create something amazing!</b>
