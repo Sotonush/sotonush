@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/sotonush?igsh=MTdmczhpYWtxcDF0NA%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me!-purple?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
+  <a href="https://t.me/sotonu">
+    <img src="https://img.shields.io/badge/Telegram-Chat%20With%20Me!-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
 </p>
 
 ---
