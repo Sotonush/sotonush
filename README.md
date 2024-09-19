@@ -40,13 +40,23 @@
 
 ### 📊 My GitHub Stats
 
-### 📊 My GitHub Metrics
-
 <p align="center">
-  <img src="https://metrics.lecoq.io/Sotonush?template=classic&config.timezone=America%2FNew_York" alt="GitHub Metrics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sotonush&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+### 🏆 My LeetCode Metrics
+
+<p align="center">
+  <img src="https://github.com/USERNAME/REPO/actions/workflows/metrics.yml/badge.svg" alt="LeetCode Metrics"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sotonush?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20repos!-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+</p>
 
 <p align="center">
   <b>Let's connect and create something amazing!</b>
-</p>
+</
