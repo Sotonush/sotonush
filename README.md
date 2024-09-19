@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Sotonu 👋</h1>
+<h1 align="center">Hey there! I'm Sotonush 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Anime Gif">
@@ -15,6 +15,9 @@
   </a>
   <a href="https://t.me/sotonu">
     <img src="https://img.shields.io/badge/Telegram-Chat%20With%20Me!-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:suleimanovamirbk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch!-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
 
