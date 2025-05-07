@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Amir 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Sotonush/sotonush/blob/main/assetgiphy.gif()
+  <img src="assets/giphy.gif
 " alt="Anime Gif">
 </p>
 
