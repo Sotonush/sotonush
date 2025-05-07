@@ -1,8 +1,11 @@
 <h1 align="center">Hey there! I'm Amir 👋</h1>
 
-//<p align="center">
- // <img src="[assets/giphy.gif](https://github.com/Sotonush/sotonush/blob/main/assets/giphy.gif)" alt="Gif">
-// </p>
+<!--
+<p align="center">
+  <img src="https://github.com/Sotonush/sotonush/blob/main/assets/giphy.gif" alt="Gif">
+</p>
+-->
+
 
 <p align="center">
   Welcome to my GitHub profile! 🚀  
