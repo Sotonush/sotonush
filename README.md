@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sotonu 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+I'm+Sotonu+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%E2%9A%A1;Building+projects+with+passion+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=772CF7&width=435&lines=Full-stack+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+React+%E2%9A%A1;Building+projects+with+passion+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 
