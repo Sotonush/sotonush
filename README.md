@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sotonu+👋;Full-stack+Developer+💻;Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀#gh-light-mode-only" alt="Typing SVG Light" />
 </p>
 
+
 <p align="center">
   <img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Anime Gif" width="400">
 </p>
