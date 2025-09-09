@@ -1,9 +1,7 @@
 <h1 align="center">Hey there! I'm Sotonu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sotonu+👋;Full-stack+Developer+💻;Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀#gh-dark-mode-only" alt="Typing SVG Dark" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sotonu+👋;Full-stack+Developer+💻;Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀#gh-light-mode-only" alt="Typing SVG Light" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sotonu+👋;Full-stack+Developer+💻;Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
 
