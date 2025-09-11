@@ -53,14 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
----
-
-## 🏆 My LeetCode Metrics
-<p align="center">
-  <img src="https://github.com/Sotonush/sotonush/actions/workflows/metrics.yml/badge.svg" alt="LeetCode Metrics"/>
-</p>
-
----
 
 <p align="center">
   <a href="https://github.com/Sotonush?tab=repositories">
