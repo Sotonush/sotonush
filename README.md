@@ -47,8 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 
 <p align="center">
   <a href="https://github.com/Sotonush?tab=repositories">
