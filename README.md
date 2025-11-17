@@ -67,39 +67,52 @@ const Sotonu = {
 
 ## 🜁 What I'm Building — Zero's Strategy Room
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 📡 Current Focus
+### 📡 Current Mission
 
-```yaml
-Learning:
-  - Microservices
-  - Cloud Architecture
-  - Large-scale system design
-  
-Building:
-  - Spring Boot APIs
-  - React interfaces
-  - Scalable backend systems
+```diff
++ Microservices Architecture
+  Building scalable distributed systems with Spring Boot
+
++ Cloud Computing Mastery  
+  Exploring AWS/Azure deployment strategies
+
++ System Design Excellence
+  Architecting high-performance solutions
 ```
 
+### 🎯 Tech Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/spring-logo.png" width="64"/>
+<br><b>Backend Engineering</b>
+<br>Spring Boot • REST APIs
+<br>Microservices • Hibernate
 </td>
-<td width="50%" valign="top">
-
-### 🜂 Experience Points
-
-- 🏗️ Enterprise systems
-- 🎨 Responsive UIs
-- 🗄️ DB architecture & tuning
-- 🏆 Hackathons & rapid prototyping
-- 🤝 Team synergy
-- 📦 Full lifecycle engineering
-
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/react-native.png" width="64"/>
+<br><b>Frontend Craft</b>
+<br>React • JavaScript
+<br>Responsive Design • UI/UX
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/database.png" width="64"/>
+<br><b>Data Architecture</b>
+<br>PostgreSQL • MySQL
+<br>Optimization • Scaling
 </td>
 </tr>
 </table>
+
+### 🏆 Battle Experience
+
+🏗️ Enterprise-grade applications · 🎨 Modern web interfaces · 🗄️ Database optimization  
+🚀 Hackathon veteran · 🤝 Team collaboration · 📦 Full-stack development
+
+</div>
 
 ---
 
@@ -107,16 +120,48 @@ Building:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sotonush&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A00FF&icon_color=8A00FF&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A00FF&text_color=c9d1d9"/>
+<!-- GitHub Stats Card -->
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sotonush&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A00FF&icon_color=8A00FF&text_color=c9d1d9&ring_color=8A00FF)](https://github.com/Sotonush)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sotonush&theme=midnight-purple&hide_border=true&background=0d1117&ring=8A00FF&fire=8A00FF&currStreakLabel=8A00FF)
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A00FF&text_color=c9d1d9&langs_count=8)](https://github.com/Sotonush)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sotonush&theme=high-contrast&hide_border=true&bg_color=0d1117&color=8A00FF&line=8A00FF&point=c9d1d9)
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sotonush&theme=radical&hide_border=true&background=0d1117&ring=8A00FF&fire=8A00FF&currStreakLabel=8A00FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=8A00FF&sideNums=c9d1d9)](https://github.com/Sotonush)
 
-### 🏆 GitHub Trophies
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sotonush&bg_color=0d1117&color=8A00FF&line=8A00FF&point=c9d1d9&area=true&hide_border=true)](https://github.com/Sotonush)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sotonush&theme=discord&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
+### 📊 Detailed Analytics
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sotonush&theme=radical)](https://github.com/Sotonush)
+
+<table align="center">
+<tr>
+<td>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sotonush&theme=radical)](https://github.com/Sotonush)
+
+</td>
+<td>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sotonush&theme=radical)](https://github.com/Sotonush)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sotonush&theme=radical)](https://github.com/Sotonush)
+
+</td>
+<td>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sotonush&theme=radical)](https://github.com/Sotonush)
+
+</td>
+</tr>
+</table>
 
 </div>
 
