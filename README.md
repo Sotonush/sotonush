@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://i.pinimg.com/originals/05/44/43/054443b397f6328ec5d699f6af31c9bd.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/Sotonush/sotonush/main/assets/tumblr_ncmkps8FOz1rydwbvo1_500_gif%20(500%C3%97281).gif" width="200"/>
 
 # **Sotonu** — Full-Stack Developer
 
@@ -195,6 +195,6 @@ If your vision is bold — I'm listening.
 
 *Forged with will · Guided by logic · Powered by Geass*
 
-<img src="https://github.com/Sotonush/sotonush/blob/main/assets/tumblr_ncmkps8FOz1rydwbvo1_500_gif (500×281).gif" alt="Geass" width="250">
+<img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Geass" width="250">
 
 </div>
