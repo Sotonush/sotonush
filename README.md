@@ -195,6 +195,6 @@ If your vision is bold — I'm listening.
 
 *Forged with will · Guided by logic · Powered by Geass*
 
-<img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Geass" width="250">
+<img src="https://github.com/Sotonush/sotonush/blob/main/assets/tumblr_ncmkps8FOz1rydwbvo1_500_gif (500×281).gif" alt="Geass" width="250">
 
 </div>
