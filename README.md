@@ -122,16 +122,6 @@ Building:
 
 ---
 
-## 🜁 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Sotonush/Sotonush/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🜁 Values — The Black Knights Codex
 
 <div align="center">
