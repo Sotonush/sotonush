@@ -27,16 +27,18 @@
 ## 🜁 Philosophy — The Path of the Developer
 
 ```javascript
-const Sotonu = {
-    role: "Full-Stack Developer",
-    philosophy: "Every line of code shapes the world",
-    geass: "Turning ideas into reality",
-    alignment: "Precision • Innovation • Elegance"
+const Amir = {
+    name: "Amir Suleimanov (Sotonu)",
+    role: "Java Backend / Full-Stack Developer",
+    current: "Software Engineer @ Unicorn Soft LLC",
+    coFounder: "MamaMind - AI-powered mobile app",
+    experience: "1.5+ years in production",
+    philosophy: "Building scalable, secure systems that matter"
 };
 ```
 
-> *"A developer doesn't follow the future — he designs it."*  
-> — **Sotonu's Doctrine**
+> *"From hackathons to production — every challenge shapes the developer."*  
+> — **Amir's Journey**
 
 ---
 
@@ -47,6 +49,7 @@ const Sotonu = {
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Frontend
@@ -55,62 +58,72 @@ const Sotonu = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Security & Auth
+![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=for-the-badge&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logoColor=white)
+
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 </div>
 
 ---
 
-## 🜁 What I'm Building — Zero's Strategy Room
+## 🜁 What I'm Building — Current Missions
 
 <div align="center">
 
-### 📡 Current Mission
+### 🏢 Professional Work
 
 ```diff
-+ Microservices Architecture
-  Building scalable distributed systems with Spring Boot
++ Software Engineer @ Unicorn Soft LLC
+  Optimizing platform for 10,000+ users
+  Custom Keycloak plugins development
+  Financial transaction security implementation
 
-+ Cloud Computing Mastery  
-  Exploring AWS/Azure deployment strategies
-
-+ System Design Excellence
-  Architecting high-performance solutions
++ Co-Founder & Lead Developer @ MamaMind
+  Leading team of 7 developers
+  AI module for user data analysis
+  Android mobile app development
 ```
 
-### 🎯 Tech Focus
+### 🎯 Tech Expertise
 
 <table>
 <tr>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/spring-logo.png" width="64"/>
 <br><b>Backend Engineering</b>
-<br>Spring Boot • REST APIs
-<br>Microservices • Hibernate
+<br>Spring Boot • Security
+<br>Keycloak • JWT • OAuth2
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/react-native.png" width="64"/>
-<br><b>Frontend Craft</b>
-<br>React • JavaScript
-<br>Responsive Design • UI/UX
+<br><b>Full-Stack Development</b>
+<br>React • REST API
+<br>Microservices Architecture
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/database.png" width="64"/>
-<br><b>Data Architecture</b>
+<br><b>System Design</b>
 <br>PostgreSQL • MySQL
-<br>Optimization • Scaling
+<br>Scalability • Performance
 </td>
 </tr>
 </table>
 
-### 🏆 Battle Experience
+### 🏆 Real Experience
 
-🏗️ Enterprise-grade applications · 🎨 Modern web interfaces · 🗄️ Database optimization  
-🚀 Hackathon veteran · 🤝 Team collaboration · 📦 Full-stack development
+**🏢 Production Systems:** Unicorn Soft (10k+ users), PRODUMANO (B2B platform), JS-SOFT (medical web)  
+**👥 Team Leadership:** Led teams of 4-7 developers in hackathons and startups  
+**🎖️ Hackathons:** IT FEST 2024 Team Leader, DT4CE Java Developer (certified)  
+**🚀 Projects:** Financial transactions, AI integration, traffic analysis systems
 
 </div>
 
