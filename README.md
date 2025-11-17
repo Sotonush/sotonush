@@ -138,26 +138,14 @@ const Sotonu = {
 
 <table align="center">
 <tr>
-<td>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sotonush&theme=radical)](https://github.com/Sotonush)
-
-</td>
-<td>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sotonush&theme=radical)](https://github.com/Sotonush)
-
-</td>
-</tr>
-<tr>
-<td>
+<td align="center" width="50%">
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sotonush&theme=radical)](https://github.com/Sotonush)
 
 </td>
-<td>
+<td align="center" width="50%">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sotonush&theme=radical)](https://github.com/Sotonush)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sotonush&theme=radical&utcOffset=6)](https://github.com/Sotonush)
 
 </td>
 </tr>
