@@ -133,14 +133,6 @@ const Amir = {
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sotonush&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A00FF&icon_color=8A00FF&text_color=c9d1d9&ring_color=8A00FF)](https://github.com/Sotonush)
-
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sotonush&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A00FF&text_color=c9d1d9&langs_count=8)](https://github.com/Sotonush)
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sotonush&theme=radical&hide_border=true&background=0d1117&ring=8A00FF&fire=8A00FF&currStreakLabel=8A00FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=8A00FF&sideNums=c9d1d9)](https://github.com/Sotonush)
 
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sotonush&bg_color=0d1117&color=8A00FF&line=8A00FF&point=c9d1d9&area=true&hide_border=true)](https://github.com/Sotonush)
