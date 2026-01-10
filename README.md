@@ -27,8 +27,8 @@
 ## 🜁 Philosophy — The Path of the Developer
 
 ```javascript
-const Amir = {
-    name: "Amir Suleimanov (Sotonu)",
+const Sotonu = {
+    name: "Sotonu",
     role: "Java Backend / Full-Stack Developer",
     current: "Software Engineer @ Unicorn Soft LLC",
     coFounder: "MamaMind - AI-powered mobile app",
@@ -38,7 +38,7 @@ const Amir = {
 ```
 
 > *"From hackathons to production — every challenge shapes the developer."*  
-> — **Amir's Journey**
+> — **Sotonu's Journey**
 
 ---
 
