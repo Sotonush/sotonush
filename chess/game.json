@@ -1,8 +1,21 @@
 {
   "game": 1,
-  "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
-  "moves": [],
-  "players": {},
+  "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+  "moves": [
+    {
+      "san": "e4",
+      "uci": "e2e4",
+      "by": "Sotonush"
+    },
+    {
+      "san": "Nf6",
+      "uci": "g8f6",
+      "by": "Zero"
+    }
+  ],
+  "players": {
+    "Sotonush": 1
+  },
   "record": {
     "zero": 0,
     "challengers": 0,
