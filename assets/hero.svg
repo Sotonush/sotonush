@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".4"/></pattern>
+<filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .9 0"/></filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".85"/></radialGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a0c0c"/><stop offset=".55" stop-color="#2a0606"/><stop offset="1" stop-color="#0a0a0a"/></linearGradient>
+</defs>
+<style>
+.roll{animation:roll 1.6s linear infinite}
+@keyframes roll{to{transform:translateY(4px)}}
+.flick{animation:flick 7s steps(1) infinite}
+@keyframes flick{0%,100%{opacity:0}61%{opacity:.04}62%{opacity:0}63%{opacity:.06}64%{opacity:0}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.in{animation:in 5s infinite steps(1)}
+@keyframes in{0%,100%{opacity:1}47%{opacity:.35}48%{opacity:1}83%{opacity:.5}84%{opacity:1}}
+
+.r{animation:gr 3.2s infinite steps(1)} .c{animation:gc 3.2s infinite steps(1)} .m{animation:gm 3.2s infinite steps(1)}
+@keyframes gr{0%,100%{transform:translate(-2px,0)}20%{transform:translate(-6px,1px)}22%{transform:translate(3px,-1px)}24%{transform:translate(-2px,0)}71%{transform:translate(-9px,0)}73%{transform:translate(-2px,0)}}
+@keyframes gc{0%,100%{transform:translate(2px,0)}20%{transform:translate(6px,-1px)}22%{transform:translate(-3px,1px)}24%{transform:translate(2px,0)}71%{transform:translate(9px,0)}73%{transform:translate(2px,0)}}
+@keyframes gm{0%,100%{transform:none}20%{transform:skewX(-8deg)}21%{transform:none}71%{transform:translateX(4px)}72%{transform:none}}
+.t1{animation-delay:.3s} .t2{animation-delay:1.1s} .t3{animation-delay:1.9s} .t4{animation-delay:2.6s}
+</style>
+<rect width="900" height="380" fill="#0a0a0a"/>
+<rect width="900" height="210" fill="url(#sky)"/>
+<path d="M -10 92 Q 330 130 640 90 T 905 120" stroke="#000" stroke-width="1.6" fill="none"/><path d="M -10 100 Q 330 144 640 98 T 905 128" stroke="#000" stroke-width="1.6" fill="none"/><path d="M -10 112 Q 330 162 640 110 T 905 140" stroke="#000" stroke-width="1.6" fill="none"/><path d="M -10 132 Q 330 172 640 120 T 905 150" stroke="#000" stroke-width="1.6" fill="none"/>
+<rect x="696.25" y="60" width="7.5" height="170" fill="#000"/>
+<rect x="642.5" y="77.5" width="115.0" height="5.0" fill="#000"/>
+<rect x="648.625" y="68.75" width="5.0" height="8.75" fill="#000"/>
+<rect x="697.5" y="68.75" width="5.0" height="8.75" fill="#000"/>
+<rect x="746.375" y="68.75" width="5.0" height="8.75" fill="#000"/>
+<rect x="657.5" y="102.5" width="85.0" height="5.0" fill="#000"/>
+<rect x="661.375" y="93.75" width="5.0" height="8.75" fill="#000"/>
+<rect x="697.5" y="93.75" width="5.0" height="8.75" fill="#000"/>
+<rect x="733.625" y="93.75" width="5.0" height="8.75" fill="#000"/>
+<rect x="857.3" y="84" width="5.4" height="146" fill="#000"/>
+<rect x="818.6" y="96.6" width="82.8" height="3.6" fill="#000"/>
+<rect x="823.01" y="90.3" width="3.6" height="6.3" fill="#000"/>
+<rect x="858.2" y="90.3" width="3.6" height="6.3" fill="#000"/>
+<rect x="893.3900000000001" y="90.3" width="3.6" height="6.3" fill="#000"/>
+<rect x="829.4" y="114.6" width="61.2" height="3.6" fill="#000"/>
+<rect x="832.19" y="108.3" width="3.6" height="6.3" fill="#000"/>
+<rect x="858.2" y="108.3" width="3.6" height="6.3" fill="#000"/>
+<rect x="884.21" y="108.3" width="3.6" height="6.3" fill="#000"/>
+<rect y="205" width="900" height="175" fill="#0a0a0a"/>
+<text x="40" y="58" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#e9e4dc" class="in t1">PRESENT DAY</text>
+<text x="40" y="80" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="4" fill="#e9e4dc" class="in t2">PRESENT TIME.</text>
+<text x="40" y="102" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#ff4d4d" class="in t3">hahahaha<tspan class="blink">_</tspan></text>
+<g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="900" font-size="66" letter-spacing="2">
+<text x="40" y="280" fill="#ff2a3d" opacity=".85" class="r">AMIR SULEIMANOV</text>
+<text x="40" y="280" fill="#2ee6ff" opacity=".75" class="c">AMIR SULEIMANOV</text>
+<text x="40" y="280" fill="#f2efe9" class="m">AMIR SULEIMANOV</text>
+</g>
+<text x="42" y="314" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="15" letter-spacing="2" fill="#b9b2a8">full-stack developer · tech lead · bishkek, kg</text>
+<text x="42" y="350" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="13" fill="#ff4d4d" class="in t4">&gt; <tspan fill="#e9e4dc">connection established</tspan><tspan class="blink" fill="#e9e4dc">█</tspan></text>
+<text x="858" y="350" text-anchor="end" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="3" fill="#6b6259">LAYER:00 · 接続中</text>
+<rect width="900" height="380" filter="url(#noise)" opacity=".07"/>
+<g class="roll"><rect y="-8" width="900" height="396" fill="url(#scan)"/></g>
+<rect width="900" height="380" fill="url(#vig)"/>
+<rect class="flick" width="900" height="380" fill="#fff" opacity="0"/>
+</svg>

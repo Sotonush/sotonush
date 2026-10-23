@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".4"/></pattern>
+<filter id="noise"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="7"/><feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .9 0"/></filter>
+<radialGradient id="vig" cx="50%" cy="50%" r="75%"><stop offset="55%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity=".85"/></radialGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a0c0c"/><stop offset=".55" stop-color="#2a0606"/><stop offset="1" stop-color="#0a0a0a"/></linearGradient>
+</defs>
+<style>
+.roll{animation:roll 1.6s linear infinite}
+@keyframes roll{to{transform:translateY(4px)}}
+.flick{animation:flick 7s steps(1) infinite}
+@keyframes flick{0%,100%{opacity:0}61%{opacity:.04}62%{opacity:0}63%{opacity:.06}64%{opacity:0}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.in{animation:in 5s infinite steps(1)}
+@keyframes in{0%,100%{opacity:1}47%{opacity:.35}48%{opacity:1}83%{opacity:.5}84%{opacity:1}}
+
+.g{animation:g 4s infinite steps(1)}
+@keyframes g{0%,100%{transform:none}40%{transform:translateX(-5px)}41%{transform:translateX(3px)}42%{transform:none}}
+</style>
+<rect width="900" height="120" fill="#0a0a0a"/>
+<g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="900" font-size="30" letter-spacing="6" text-anchor="middle">
+<text x="448.0" y="62" fill="#ff2a3d" opacity=".8" class="g">CLOSE THE WORLD, OPEN THE nExt</text>
+<text x="450.0" y="62" fill="#f2efe9">CLOSE THE WORLD, OPEN THE nExt</text>
+</g>
+<text x="450.0" y="94" text-anchor="middle" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="3" fill="#6b6259">no matter where you go, everyone's connected<tspan class="blink" fill="#ff3347">_</tspan></text>
+<rect width="900" height="120" filter="url(#noise)" opacity=".07"/>
+<g class="roll"><rect y="-8" width="900" height="136" fill="url(#scan)"/></g>
+<rect width="900" height="120" fill="url(#vig)"/>
+<rect class="flick" width="900" height="120" fill="#fff" opacity="0"/>
+</svg>
