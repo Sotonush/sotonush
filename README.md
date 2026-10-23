@@ -1,134 +1,61 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║       "He who controls the code, controls the world."                ║
-║                        — Zero Algorithm                              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+# Amir Suleimanov
 
-<img src="https://raw.githubusercontent.com/Sotonush/sotonush/main/assets/tumblr_ncmkps8FOz1rydwbvo1_500_gif%20(500%C3%97281).gif" width="200"/>
+**Full-Stack Developer · Java / Spring Boot + React · Tech Lead**
 
-# **Sotonu** — Full-Stack Developer
+I build business systems from zero to production — CRM, e-commerce and multi-tenant SaaS.
 
-*"Code is the Geass I cast upon reality."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleimanovamir/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suleimanovdev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleimanovamirbk@gmail.com)
 
-<img src="https://img.shields.io/badge/Status-ACTIVE-8A00FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Location-Kyrgyzstan-8A00FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Focus-Innovation-8A00FF?style=for-the-badge"/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-8A00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suleimanovdev)
-[![Email](https://img.shields.io/badge/Email-8A00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleimanovamirbk@gmail.com)
+📍 Bishkek, Kyrgyzstan · open to remote
 
 </div>
 
 ---
 
-## 🜁 Philosophy — The Path of the Developer
+## What I build
 
-```javascript
-const Sotonu = {
-    name: "Sotonu",
-    role: "Java Backend / Full-Stack Developer",
-    philosophy: "Building scalable, secure systems that matter"
-};
-```
+- **E-commerce ecosystem** — CRM + online store from scratch: orders, purchasing, warehouse, delivery and payment integrations, partner program, analytics. *Tech lead, launching soon.*
+- **SaaS for private medical clinics** — roles & permissions model, authentication on Keycloak, inpatient, laboratory and cashier modules, integrations with the tax service and 2GIS.
+- **Messaging for dental clinics** — WhatsApp mailings without the official Business API and an AI chat assistant for patients.
+- **Own multi-tenant SaaS** — company data isolation on Hibernate `@TenantId`, 220+ tests on Testcontainers, CI/CD from GitHub Actions to production.
 
-> *"From hackathons to production — every challenge shapes the developer."*  
-> — **Sotonu's Journey**
+> The code of these projects is commercial and private — happy to walk you through the architecture on a call.
 
----
+## Stack
 
-## 🜁 Tech Arsenal
+**Backend** &nbsp;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<div align="center">
+**Data** &nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+**DevOps** &nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Testing** &nbsp;![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square&logo=testcontainers&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=java&logoColor=white)
 
-### Security & Auth
-![Keycloak](https://img.shields.io/badge/Keycloak-008AAA?style=for-the-badge&logo=keycloak&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge&logoColor=white)
+**Frontend** &nbsp;![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+## How I work
 
-</div>
+- Start from the domain and the data model, then the API — not the other way round.
+- Security and access rules are designed up front, not bolted on.
+- Integration tests against a real database, automated deploys, no manual steps.
 
 ---
 
-## 🜁 What I Do — Fields of Command
-
-<div align="center">
-
-### 🎯 Tech Expertise
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/spring-logo.png" width="64"/>
-<br><b>Backend Engineering</b>
-<br>Spring Boot • Security
-<br>Keycloak • JWT • OAuth2
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/react-native.png" width="64"/>
-<br><b>Full-Stack Development</b>
-<br>React • REST API
-<br>Microservices Architecture
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/database.png" width="64"/>
-<br><b>System Design</b>
-<br>PostgreSQL • MySQL
-<br>Scalability • Performance
-</td>
-</tr>
-</table>
-
-### 🏆 Real Experience
-
-**🏢 Production Systems:** Unicorn Soft (10k+ users), PRODUMANO (B2B platform), JS-SOFT (medical web)  
-**👥 Team Leadership:** Led teams of 4-7 developers in hackathons and startups  
-**🎖️ Hackathons:** IT FEST 2024 Team Leader, DT4CE Java Developer (certified)  
-**🚀 Projects:** Financial transactions, AI integration, traffic analysis systems
-
-</div>
-
----
-
-## 🜁 The Contract — Command Center
+<details>
+<summary><b>🜁 The Contract — GitHub stats</b></summary>
 
 <div align="center">
 
 <img src="assets/contract.svg" width="100%" alt="Geass contract: GitHub stats"/>
 
 </div>
+</details>
 
----
-
-## 🜁 Zero Requiem — Play Chess Against Zero
-
-<div align="center">
-
-*"If the King doesn't lead, how can he expect his subordinates to follow?"*
-
-</div>
+## ♟ Play chess against Zero
 
 <!-- ZERO-CHESS:START -->
 
@@ -149,37 +76,3 @@ const Sotonu = {
 <sub>Knights of the board: @Sotonush (2)</sub>
 
 <!-- ZERO-CHESS:END -->
-
----
-
-## 🜁 Values — The Black Knights Codex
-
-<div align="center">
-
-🜄 **Elegance in code** • 🜁 **Global collaboration** • 🜂 **Rapid iteration**  
-🜃 **Beauty through architecture** • 🜀 **Knowledge above all**
-
-</div>
-
----
-
-## 🜁 Contact — Speak Your Will
-
-<div align="center">
-
-**Open to alliances, ideas, and ambitious projects.**  
-If your vision is bold — I'm listening.
-
-```
-"Those who dare to code the future… become its authors."
-```
-
-<img src="https://komarev.com/ghpvc/?username=Sotonush&color=8A00FF&style=for-the-badge&label=Profile+Views"/>
-
----
-
-*Forged with will · Guided by logic · Powered by Geass*
-
-<img src="https://github.com/Sotonush/sotonush/blob/main/assets/Anime%20gifs%F0%9F%94%B9.gif" alt="Geass" width="250">
-
-</div>
